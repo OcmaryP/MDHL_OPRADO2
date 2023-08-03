@@ -1,0 +1,17 @@
+h1{
+    color: blue;
+}
+h2{
+    color: blue;
+}
+.h3{
+    color: black
+}
+h3{
+    color: blue;
+}
+figure,section,img{
+    width: 200px;
+    height: 200px;
+    padding: 10px 20px 30px 40px;
+}
